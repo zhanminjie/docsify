@@ -1,4 +1,4 @@
-* [笔记：利用Python进行数据分析 第二版](/notes1/book1.md)
+* [1. 利用Python进行数据分析 第二版](/notes1/book1.md)
 
 
 

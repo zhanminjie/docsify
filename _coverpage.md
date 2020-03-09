@@ -6,7 +6,7 @@
 
 ## 🍂骑着猪猪晒太阳🍂
 
-> 个人读书笔记
+> 读书笔记
 
 * Simple and lightweight (~12kb gzipped)
 * Multiple themes
